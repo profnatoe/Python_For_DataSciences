@@ -1,0 +1,3 @@
+it is much better to study data science than to 
+study physics or applied mathematics.
+I hope what I am saying makes sense.
