@@ -1,0 +1,12 @@
+Virtual Monthly Low Budget Cost planning Assistant.
+
+A model can  be created that analyses how you use money every month.
+Given some data either real(from previous months) or test data it can find out what  is it that
+is important to you and draw a month budget by carrying out the following duties:
+
+1) Use the above data and do comparisons looking at shops you normally go to against online store
+products data.
+2) Compute time and distance taken to reach those stores
+3) Look at social network marketplace that is closer to you (Data from facebook amongst the others)
+4) Analyse the entire data and suggest three best option that will result in you using less money
+5) Suggest alternatives based on given data

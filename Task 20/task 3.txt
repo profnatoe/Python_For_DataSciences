@@ -1,0 +1,14 @@
+# What is Amazon Comprehend Medical
+
+-It is a technology that uses pretrained NLP model to analyze unstructured clinical text through entity detection.
+-An entity is a textual reference to medical information such as medical conditions, medications, or protected health information.
+-Some operations go one step further by detecting entities and then linking those entities to standardized ontologies.
+ The model is continuously trained on a large body of medical texts, so you don't need to provide training data. All results include a confidence score, 
+ which indicates the confidence that Amazon Comprehend Medical has in the accuracy of the detected entities
+
+# Use Cases
+
+Patient case management and outcome
+— Doctors and healthcare providers can manage and easily access medical information that doesn’t fit into traditional forms.
+- It allows patients to report their health concerns in a narrative that can provide more information than standard formats. 
+- By analyzing case notes, providers can identify candidates for early screening of medical conditions before the condition becomes more difficult and expensive to treat. 
