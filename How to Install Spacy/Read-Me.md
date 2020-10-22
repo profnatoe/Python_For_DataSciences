@@ -10,3 +10,7 @@
 # final step
 
 * run your program
+
+# For installing in Anaconda
+
+* Open https://rpubs.com/mohammadshadan/install_spacy and follow all the steps
