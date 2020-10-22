@@ -1,4 +1,4 @@
-# Follow the following instructions with reference to the uploaded images
+# Follow the below instructions with reference to the uploaded images
 # First Step:
 
 * search for command prompt on your computer
@@ -13,4 +13,4 @@
 
 # For installing in Anaconda
 
-* Open https://rpubs.com/mohammadshadan/install_spacy and follow all the steps
+* Open https://rpubs.com/mohammadshadan/install_spacy and/or https://www.youtube.com/watch?v=LiRo_it6f78 and follow all the steps
