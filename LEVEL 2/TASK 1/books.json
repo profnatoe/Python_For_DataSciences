@@ -1,0 +1,39 @@
+{
+    "books": [{
+            "year": 2020,
+            "author": "Nicolette Mashile",
+            "publisher": "CVX Media",
+            "Title": "What's Your Move"
+        },
+        {
+            "year": 1965,
+            "author": "Rodriguez Fandingo",
+            "publisher": "Prixoma",
+            "Title": "Art of Deception"
+        },
+        {
+            "year": 2001,
+            "author": "Mark Henderson",
+            "Title": "Python for Beginners",
+            "publisher": "MeriMAx"
+        },
+        {
+            "year": 2010,
+            "author": "Fernando Sitoe",
+            "Title": "Silent Authentication for Server Side Systems",
+            "publisher": "Focal ResiBooks"
+        },
+        {
+            "year": 2014,
+            "author": "Gesmine Hall",
+            "publisher": "FBK Publishers",
+            "Title": "Harmony of Financial Freedom"
+        },
+        {
+            "year": 2009,
+            "author": "Gonzolez Santiago",
+            "publisher": "Focal ResiBooks",
+            "Title": "Animating 3D Models in Blender"
+        }
+    ]
+}
