@@ -4,10 +4,12 @@ def daysofWeek():
 
 print(daysofWeek())
 
-def replaceFunc(sentence):
-    wordlist = sentence.split()
-    wordlist[1] = "Hello"
-    
-    return " ".join(wordlist)
+def sentenceReplace(sentence):
 
-print(replaceFunc("World, It, I am Here to warn you"))
+    hello = " ".join(["{} hello".format(word) for idx, word in enumerate(sentence.split())
+    if idx % 2 == 0])   
+    print("==========\n\nModified Sentence: \n\n", hello)
+
+sentence = "What in the world are you doing on these python thorny land"
+print("Original Sentence: ", sentence)
+sentenceReplace(sentence)

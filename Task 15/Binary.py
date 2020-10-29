@@ -1,11 +1,8 @@
-import math
-#binary input from a user: console
-binary_string = input("Enter a binary number :")
+binary = list(input("Input a binary number: "))
+value = 0
 
-#tries to convert 
-try:
-    decimal = int(binary_string,2)  
-    print("The decimal value is :", decimal)    
-#prints out a message if the above fails    
-except ValueError:
-    print("Invalid binary number")
+for i in range(len(binary)):
+	digit = binary.pop()
+	if digit == '1':
+		value = value + pow(2, i)
+print("The decimal value of the number is", value)
