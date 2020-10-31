@@ -1,14 +1,12 @@
 import sqlite3
+from sqlite3 import Error
 
 try:
     db = sqlite3.connect('python_programming')
-
     cursor = db.cursor()
-    cursor.execute('''DROP TABLE python_programming''')
     db.commit()
     cursor.execute('''CREATE TABLE IF NOT EXISTS python_programming(id INTEGER PRIMARY KEY, name TEXT, grade INTEGER)''')
     db.commit()
-
 
 
     id1 = 55
@@ -105,7 +103,7 @@ try:
     cursor.execute('''SELECT * FROM python_programming''')
     print(cursor.fetchall())
 
-except Except as e:
+except Error as e:
     db.rollback()
     raise e 
 finally:
