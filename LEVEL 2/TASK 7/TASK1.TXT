@@ -1,0 +1,19 @@
+TWO SCENARIOS WHERE USING DATA VISUALISATION WOULD 
+SIGNIFICANTLY EASE THE PROCESS OF DATA ANALYSIS, INFERENCE, OR PRESENTATION OF FINDINGS
+
+
+1) COVID-19 INFECTION HEATMAP
+
+- Data is continuosly shared accross the world about covid which is meaningless. data visualisation would ease the process of data 
+analysis because there are multiple web api that expose this data about each country's infection rate, number of affected people amongst others.
+this also helps with educating citizens and or scientist to better understand how the novel corona-virus works. this can be done by creating a model
+looking at the visualisation of the infection across different race, age groups and environment. Data visualisation also helps us in understanding which methods works better in flattening the curve as we await
+for a vaccine. At the end of the day we would have a graph that shows us the prediction of how the number of cases would be if we continue with the methods in use.
+
+2) Inventory Dashboard
+
+- Business owners can use data visualisation to look at how their products move from their warehouse to their clients. This include looking at products 
+that are bought frequently, those are are in stock but not moving, how many products are sold in a given week and so on. With this visualisation we get to know 
+what to order next, where the focus of the business should be amongst others.
+
+

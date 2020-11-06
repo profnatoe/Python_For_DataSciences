@@ -1,0 +1,11 @@
+For dataset number 1: 
+
+I would use a pie chart. Reason being that a pie chart illustrates
+the proportion of the quantity it represents. There are different categories 
+there especially looking at the scores given: english, science and maths.
+Different colors can be used to differentiate these categories.
+
+For the second dataset:
+
+I would use a bar chart. we would be able to show side-by-side comparisons of the categories 
+i.e  we would be able to see the income of individuals based on their gender and also look at the age categories. 
