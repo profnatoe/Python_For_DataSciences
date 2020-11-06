@@ -1,0 +1,51 @@
+
+1. Heat map
+
+A heat map or choropleth map is a data visualisation that shows the relationship between two measures and provides rating information.
+The rating information is displayed using varying colors or saturatuib and can exhibit ratings such as high to low or bad to awesome, and needs improvement to working well.
+
+It can also be a thematic map in which the area inside recognized boundaries is shared in proportion to the data being represented.
+
+heat map  is good for discrete data because we can perform the following:
+
+- to show a relationship between two measures
+- to illustrate an important detail
+- to use a rating system
+
+2. Treemap
+
+A Treemap is a visual tool that can be used to break down the relationship between multiple variables in your data. 
+They can be used strictly as a presentation vehicle to show how your products roll up into different categories, for example a treemap can be broken down
+into 2-3 different layers to show the hierachical relationship between items.
+
+A treemap is good for hierachical data because usually a hierachical data comes in large amount and a treemap charts are equiped to be able to plot more than tens of thousands of data points.
+
+3. Waterfall chart
+
+A Waterfall chart is an information visualisation that should be used to show how an initial value
+is affected by intermediate values and resulted in a final value.
+The values can either be negative or positive
+
+- Waterfall chart is good for numerical data becasue we can do the following:
+  *reveal the composition or makeup of a number.
+
+
+
+#COMPULSORY TASK 2
+
+- Visualisation A
+    * Display pie chart key on the right side - It is best to know more about the data. for example how the calculations were done
+    * All slices should add up to 100%, this should be displayed. - We don't know anything about the items that are presented here. Each slice's percentage
+      must be displayed.
+    * Display Pie Chart Heading and with a bigger or bold font because we don't know what the data is for.
+      A heading will improve the data visualisation because one would know what the visualisation is all about.
+
+- Visualisation B 
+    * Place the x-axis label below the graph because its current position makes it to look like it is the heading of the graph.
+    * Have a proper Heading - Describing what is happening in the graph by using a header helps to understand what is going on.
+    * Use horizontal label on the x-axis => It is difficult to read the labels for each bar on the x-axis. writting them in a horizontal form can improve the visualization 
+-Visualisation C
+    *The order of the colors must be consistent throughout - This is because it can be frastrating if red is at the bottom from the first column and placed somewhere on other columns
+    *Place x-axis label below the chart not on top - a reader of the chart can be confuse the x-axis label for a chart heading. In this case we don't understand if the label at the top is a heading or x-axis label
+    *Value annotations - It is difficult to know the value of the bars. an annotation will better the visualization because we can compare sub-bar sizes
+
