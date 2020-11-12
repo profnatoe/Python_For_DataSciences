@@ -1,0 +1,10 @@
+Since you are going to present this to your mentor i will let you do most of the work so that you are atleast familiar with EDA
+
+* Look at the following tasks to help you understand better what is required:
+
+ 	- Task 15 notebook
+	- Task 16 and 17
+
+If there's a plot that you need me to do to answer specific question that you have in mind please let me know i will add it.
+
+Good Luck!
