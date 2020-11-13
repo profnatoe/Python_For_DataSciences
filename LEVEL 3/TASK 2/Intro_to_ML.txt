@@ -1,0 +1,13 @@
+One particular trend in AI that interest me is AI-Based Virtual Assistant Technology.
+
+This technology intends to replace some of the day-to-day functions and responsibilities of people.
+They decrease the time you have to spend on mundane tasks in order to allow you to free up your time
+to do more interesting, strategic and hopefully impactful things.
+
+For example you can ask your Virtual Assistant to schedule a meeting for you,
+to remind you of all your meetings everyday. Some virtual Assistant can do other complex things like
+reading books to your children, suggesting which hotels to go to,ect.
+
+Examples are as follows: Siri, Alexa, Cortana, Jarvis and others. 
+We use this technology in our phones, some use it in their homes as part of smart homes bundle and connect it to IoT
+so that you can just ask it to switch off devices in the house, change temperature of the room,etc.
