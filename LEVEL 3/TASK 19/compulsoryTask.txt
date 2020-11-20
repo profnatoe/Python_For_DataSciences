@@ -1,0 +1,49 @@
+#### Other industries that uses machine learning are as follows:
+
+*Automotive industry:
+
+    - in the Automotive industry, machine learning is most often associated with product innovations, such as self-driving cars, 
+    parking and large-change assists, and smart energy systesms. However machine learning is also having a significant effect on
+    the marketing function, from how marketers in the Automotive sector establish goals and measure returns on their investments 
+    to how they connect with consumers. machine learning is poised to become as much as organizing principle as an analytic ingredient
+    for sophisticated marketing campaigns across industries. this is especially true in the Automotive industry.
+
+#### What is anothger way that machine learning is utilised in the finance industry ?
+
+    *AI-Driven hedgefund
+
+        -An AI driven hedge fund that  makes stock trades without human intervention is the ultimate application of machine learning in 
+        finance.
+        -Hedgefund uses AI and ML to the exclusion of humans to make all stock trade decisions.
+
+    *High-Frequency Trading (HFT)
+
+        -Algorithmic trading that happens at high speeds beyong human capability gave rise to high-frequency trading (HFT) -
+        that is hundreds of thousands of trade per day executed by complex algorithms that analyze multiple markets to execute orders based
+        on market conditions. 
+
+#### Can you think of some future applications of machine learning in the medical field?
+    * Disease prevention
+        - I think in the near future especially with covid-19 causing chaos everywhere we are going to see a lot of machine learning algorithms that are able
+        to predict a certain disease that will hit the world or a specific place on earth and then try to come up with ways to prevent them.
+        for example scientists have been predicting that there would be a disease that will affect a lot of people over the years but had no way of preventing it.
+        if we create a model and train it with the data that we have and the patterns that these diseases are taking from over the last few centuries then it will be possible to prevent diseases.
+        this will work more like how scientists are able to predict earthquakes, however in this case we will know how to prevent the diseases before they affect even hundreds of people.
+
+#### Can you think of some future applications of machine learning in finance ?
+
+    * Insurance:
+        - I think that a lot is going to change when it comes to Insurance companies. It takes a lot of talent especially with mathematical background
+        to carry out some tasks. with machine learning, various algorithms can be developed that analyze the data that the client is providing quickly,
+        make decisions on what is best for the client, generates quotes should they pass the inital analytic stage and handle Insurance claims and streamline
+        back-office administration.
+
+
+
+#### What do you think the use of machine learning means to the future of doctors and other medical professionals?
+
+    -As much as machine learning is replacing most jobs done by human beings I think that in the medical field it will only improve
+    how doctos and other medical professionals work and not replace them completely. Reasons being that someone still has to train the models,
+    someone still has to come up with some data and doctors and other medical professionals are the only ones that understand the data better.
+    a machine learning algorithms will only simplify the process for example in finding a vaccine or performing a surgery or understanding
+    why certain things occur in little time as compared to doing it manually over the years.
