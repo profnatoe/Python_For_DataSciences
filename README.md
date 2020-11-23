@@ -1,9 +1,7 @@
 # Python_For_DataSciences
-Task 9 - 20 (Level 1)
+Task 9 - 20 (Level 1) - Intro to Python Programming
 
-# Versions
+Task 1 - 21 (Level 2) - Intro to Data Visualization,etc
 
--> Where there are two versions of a program usually the second one is the one that operates as instructed.
-
--> First versions contain rough idea and the full implementation is on the second one. So run the program first before submiting
+Task 1 - 22 (Level 3) - Machine Learning
 
